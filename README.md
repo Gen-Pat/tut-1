@@ -1,4 +1,7 @@
-# tut-1
-This is just a testing phase.
+# About Patrick
 
-My name is Patrick: an upcoming software developer.
+Patrick is a designer.
+
+He is currently practicing programming to become a Software Developer.
+
+
